@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsvd.a CMakeFiles/svd.dir/src/GolubKahanSVD.cpp.o CMakeFiles/svd.dir/src/iterative_refinement.cpp.o CMakeFiles/svd.dir/src/jacobi.cpp.o CMakeFiles/svd.dir/src/generate_svd.cpp.o
+/usr/bin/ranlib libsvd.a

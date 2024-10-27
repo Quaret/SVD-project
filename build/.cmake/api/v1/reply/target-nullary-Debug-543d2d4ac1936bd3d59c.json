@@ -1,0 +1,147 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"ei_add_test",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"build/_deps/extern_eigen-src/cmake/EigenTesting.cmake",
+			"build/_deps/extern_eigen-src/test/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 163,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 210,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 214,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 214,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 214,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 214,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 214,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 214,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 214,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 214,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 214,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 214,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "nullary_1::@a8c18f49de1aed3dbe44"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "nullary_2::@a8c18f49de1aed3dbe44"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "nullary_3::@a8c18f49de1aed3dbe44"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "nullary_4::@a8c18f49de1aed3dbe44"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "nullary_5::@a8c18f49de1aed3dbe44"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "nullary_6::@a8c18f49de1aed3dbe44"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "nullary_7::@a8c18f49de1aed3dbe44"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "nullary_8::@a8c18f49de1aed3dbe44"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "nullary_9::@a8c18f49de1aed3dbe44"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "nullary_10::@a8c18f49de1aed3dbe44"
+		}
+	],
+	"id" : "nullary::@a8c18f49de1aed3dbe44",
+	"name" : "nullary",
+	"paths" : 
+	{
+		"build" : "_deps/extern_eigen-build/test",
+		"source" : "build/_deps/extern_eigen-src/test"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

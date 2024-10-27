@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/quaret/Documents/C++/SVD-project/build/_deps/extern_eigen-src/test/vectorwiseop.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "vectorwiseop_3"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/extern_eigen-build/unsupported/doc/snippets",
+		"source" : "build/_deps/extern_eigen-src/unsupported/doc/snippets"
+	}
+}
